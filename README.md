@@ -10,4 +10,4 @@ Copy the hw_sensors_exporter.sh file somewhere in your PATH (ex. /usr/local/bin/
 It will start listening for connections on 127.0.0.1 port 9120 by default but you can change that near the end of this script.
 
 # Notes
-It is a bit hacky as I tried to do everything in ksh to minimize forking but I'm no ksh expert by a long shot.
+It is a bit hacky as I tried to do almost everything in ksh to minimize forking.
